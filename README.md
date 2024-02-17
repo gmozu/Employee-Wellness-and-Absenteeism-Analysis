@@ -15,7 +15,7 @@ The HR Department sent the following request to me, a Data Analyst of the compan
 - **Calculate a Wage Increase** or annual compensation for Non-Smokers for – Insurance Budget of $983,221 for all Non-Smokers
 - **Create a Dashboard** for HR to understand Absenteeism at work.
 
-**_Disclaimer_**: _All datasets and reports do not represent any company, institution or country, but just a dummy mock data to demonstrate my skills of Data Analysis with Power BI._
+**_Disclaimer_**: _All datasets and reports do not represent any company, institution or country, but just a dummy mock data to demonstrate my skills of Data Analysis with SQL and Power BI._
 
 ## Problem Statement
 
