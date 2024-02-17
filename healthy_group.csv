@@ -1,0 +1,741 @@
+ID,Social_smoker,Body_mass_index,Healthy_Category
+1,0,30,Poor health
+2,0,31,Poor health
+3,0,31,Poor health
+4,1,24,Poor health
+5,0,30,Poor health
+6,0,31,Poor health
+7,0,27,Poor health
+8,0,23,Poor health
+9,0,25,Poor health
+10,0,29,Poor health
+11,0,23,Poor health
+12,0,23,Poor health
+13,0,23,Poor health
+14,0,31,Poor health
+15,0,31,Poor health
+16,0,23,Poor health
+17,0,31,Poor health
+18,0,31,Poor health
+19,0,25,Poor health
+20,0,32,Poor health
+21,0,25,Poor health
+22,0,31,Poor health
+23,0,27,Poor health
+24,0,23,Poor health
+25,0,30,Poor health
+26,0,27,Poor health
+27,0,30,Poor health
+28,1,22,Poor health
+29,0,30,Poor health
+30,0,31,Poor health
+31,0,31,Poor health
+32,1,33,Poor health
+33,0,29,Poor health
+34,1,33,Poor health
+35,0,31,Poor health
+36,0,27,Poor health
+37,0,30,Poor health
+38,0,23,Poor health
+39,1,33,Poor health
+40,0,23,Poor health
+41,0,21,Healthy
+42,0,28,Poor health
+43,0,31,Poor health
+44,0,38,Poor health
+45,0,25,Poor health
+46,0,28,Poor health
+47,0,31,Poor health
+48,0,25,Poor health
+49,0,23,Poor health
+50,0,25,Poor health
+51,0,23,Poor health
+52,0,24,Healthy
+53,0,24,Healthy
+54,0,28,Poor health
+55,0,30,Poor health
+56,0,31,Poor health
+57,0,24,Healthy
+58,0,31,Poor health
+59,0,25,Poor health
+60,0,32,Poor health
+61,0,31,Poor health
+62,0,23,Poor health
+63,0,31,Poor health
+64,0,28,Poor health
+65,0,31,Poor health
+66,0,19,Healthy
+67,0,31,Poor health
+68,0,24,Healthy
+69,0,28,Poor health
+70,0,24,Healthy
+71,0,32,Poor health
+72,0,25,Poor health
+73,0,31,Poor health
+74,0,24,Healthy
+75,0,23,Poor health
+76,0,25,Poor health
+77,0,24,Healthy
+78,0,30,Poor health
+79,0,27,Poor health
+80,0,23,Poor health
+81,0,31,Poor health
+82,0,24,Healthy
+83,0,31,Poor health
+84,1,22,Poor health
+85,0,25,Poor health
+86,0,25,Poor health
+87,0,25,Poor health
+88,0,25,Poor health
+89,0,24,Healthy
+90,0,25,Poor health
+91,0,24,Healthy
+92,1,22,Poor health
+93,0,24,Healthy
+94,0,23,Poor health
+95,0,32,Poor health
+96,0,24,Healthy
+97,0,30,Poor health
+98,0,25,Poor health
+99,0,32,Poor health
+100,0,28,Poor health
+101,0,31,Poor health
+102,0,29,Poor health
+103,0,24,Healthy
+104,0,23,Poor health
+105,0,28,Poor health
+106,0,27,Poor health
+107,0,24,Healthy
+108,0,23,Poor health
+109,0,24,Healthy
+110,0,27,Poor health
+111,0,28,Poor health
+112,0,23,Poor health
+113,0,24,Healthy
+114,0,24,Healthy
+115,0,28,Poor health
+116,0,28,Poor health
+117,0,25,Poor health
+118,0,24,Healthy
+119,0,21,Healthy
+120,0,24,Healthy
+121,0,24,Healthy
+122,0,28,Poor health
+123,0,24,Healthy
+124,0,28,Poor health
+125,0,28,Poor health
+126,0,28,Poor health
+127,0,28,Poor health
+128,0,28,Poor health
+129,0,28,Poor health
+130,0,19,Poor health
+131,0,30,Poor health
+132,0,28,Poor health
+133,0,21,Healthy
+134,0,28,Poor health
+135,0,28,Poor health
+136,0,24,Healthy
+137,0,30,Poor health
+138,0,21,Healthy
+139,0,23,Poor health
+140,0,31,Poor health
+141,0,25,Poor health
+142,0,25,Poor health
+143,0,23,Poor health
+144,0,30,Poor health
+145,0,24,Poor health
+146,0,24,Poor health
+147,0,24,Healthy
+148,0,24,Healthy
+149,0,19,Healthy
+150,0,21,Poor health
+151,0,24,Healthy
+152,0,25,Poor health
+153,0,25,Healthy
+154,0,24,Healthy
+155,0,25,Poor health
+156,0,23,Poor health
+157,0,23,Poor health
+158,1,22,Poor health
+159,1,22,Poor health
+160,0,25,Poor health
+161,0,23,Poor health
+162,0,19,Poor health
+163,0,32,Poor health
+164,0,23,Poor health
+165,1,22,Poor health
+166,0,25,Poor health
+167,0,23,Poor health
+168,0,25,Poor health
+169,0,30,Poor health
+170,1,22,Poor health
+171,0,23,Poor health
+172,0,24,Healthy
+173,1,24,Poor health
+174,0,31,Poor health
+175,0,24,Healthy
+176,0,24,Poor health
+177,0,19,Healthy
+178,0,24,Poor health
+179,0,24,Poor health
+180,0,31,Poor health
+181,1,24,Poor health
+182,0,24,Healthy
+183,0,32,Poor health
+184,0,24,Healthy
+185,0,25,Poor health
+186,0,24,Healthy
+187,0,25,Poor health
+188,0,23,Poor health
+189,0,25,Poor health
+190,0,24,Healthy
+191,0,23,Poor health
+192,0,31,Poor health
+193,0,31,Poor health
+194,0,25,Poor health
+195,0,23,Poor health
+196,0,25,Poor health
+197,0,32,Poor health
+198,0,23,Poor health
+199,0,30,Poor health
+200,0,25,Poor health
+201,1,21,Poor health
+202,0,30,Poor health
+203,0,29,Poor health
+204,1,33,Poor health
+205,0,30,Poor health
+206,0,25,Poor health
+207,0,25,Poor health
+208,0,31,Poor health
+209,0,24,Poor health
+210,0,21,Healthy
+211,0,25,Poor health
+212,0,31,Poor health
+213,0,30,Poor health
+214,1,24,Poor health
+215,0,25,Healthy
+216,1,21,Poor health
+217,0,24,Healthy
+218,0,31,Poor health
+219,0,31,Poor health
+220,0,27,Poor health
+221,0,23,Poor health
+222,0,27,Poor health
+223,0,23,Poor health
+224,0,25,Poor health
+225,0,23,Poor health
+226,0,31,Poor health
+227,0,25,Poor health
+228,0,23,Poor health
+229,0,31,Poor health
+230,0,29,Poor health
+231,0,31,Poor health
+232,0,31,Poor health
+233,1,21,Poor health
+234,0,31,Poor health
+235,0,36,Poor health
+236,0,24,Healthy
+237,0,25,Poor health
+238,0,31,Poor health
+239,0,28,Poor health
+240,0,28,Poor health
+241,0,25,Poor health
+242,0,19,Poor health
+243,0,25,Poor health
+244,0,25,Poor health
+245,0,25,Poor health
+246,1,22,Poor health
+247,0,27,Poor health
+248,0,30,Poor health
+249,0,31,Poor health
+250,0,30,Poor health
+251,0,30,Poor health
+252,0,23,Poor health
+253,0,30,Poor health
+254,1,22,Poor health
+255,0,30,Poor health
+256,0,22,Poor health
+257,1,25,Poor health
+258,1,25,Poor health
+259,0,23,Poor health
+260,0,30,Poor health
+261,0,32,Poor health
+262,0,25,Poor health
+263,0,19,Healthy
+264,0,31,Poor health
+265,0,32,Poor health
+266,0,29,Poor health
+267,0,31,Poor health
+268,0,29,Poor health
+269,0,27,Poor health
+270,0,21,Poor health
+271,0,31,Poor health
+272,0,31,Poor health
+273,0,30,Poor health
+274,0,38,Poor health
+275,0,23,Poor health
+276,0,25,Poor health
+277,0,35,Poor health
+278,0,23,Poor health
+279,0,31,Poor health
+280,0,23,Poor health
+281,0,31,Poor health
+282,0,25,Poor health
+283,0,23,Poor health
+284,0,38,Poor health
+285,0,31,Poor health
+286,0,38,Poor health
+287,0,25,Poor health
+288,0,25,Poor health
+289,0,31,Poor health
+290,0,30,Poor health
+291,0,29,Poor health
+292,0,30,Poor health
+293,0,30,Poor health
+294,0,31,Poor health
+295,0,32,Poor health
+296,0,19,Poor health
+297,0,28,Poor health
+298,0,25,Poor health
+299,0,31,Poor health
+300,0,19,Poor health
+301,0,38,Poor health
+302,0,30,Poor health
+303,0,23,Poor health
+304,0,38,Poor health
+305,0,38,Poor health
+306,0,38,Poor health
+307,0,31,Poor health
+308,0,25,Poor health
+309,0,19,Poor health
+310,0,31,Poor health
+311,0,27,Poor health
+312,0,23,Poor health
+313,0,25,Poor health
+314,1,22,Poor health
+315,0,19,Healthy
+316,0,19,Healthy
+317,0,31,Poor health
+318,0,28,Poor health
+319,0,32,Poor health
+320,0,31,Poor health
+321,0,23,Poor health
+322,0,25,Poor health
+323,1,21,Poor health
+324,0,25,Poor health
+325,0,38,Poor health
+326,0,25,Healthy
+327,0,29,Poor health
+328,0,28,Poor health
+329,0,29,Poor health
+330,0,31,Poor health
+331,0,23,Poor health
+332,0,25,Poor health
+333,0,23,Poor health
+334,0,31,Poor health
+335,0,23,Poor health
+336,0,23,Poor health
+337,1,21,Poor health
+338,1,24,Poor health
+339,0,31,Poor health
+340,0,24,Healthy
+341,0,31,Poor health
+342,0,31,Poor health
+343,0,29,Poor health
+344,0,31,Poor health
+345,0,23,Poor health
+346,0,23,Poor health
+347,0,31,Poor health
+348,0,31,Poor health
+349,0,19,Healthy
+350,0,28,Poor health
+351,0,29,Poor health
+352,0,31,Poor health
+353,0,38,Poor health
+354,0,29,Poor health
+355,0,23,Poor health
+356,1,22,Poor health
+357,0,31,Poor health
+358,0,30,Poor health
+359,0,24,Healthy
+360,0,28,Poor health
+361,0,25,Poor health
+362,0,29,Poor health
+363,0,25,Poor health
+364,0,30,Poor health
+365,0,25,Poor health
+366,0,38,Poor health
+367,0,31,Poor health
+368,0,31,Poor health
+369,0,31,Poor health
+370,0,28,Poor health
+371,0,31,Poor health
+372,0,24,Healthy
+373,0,30,Poor health
+374,0,23,Poor health
+375,0,31,Poor health
+376,0,31,Poor health
+377,0,31,Poor health
+378,0,31,Poor health
+379,0,23,Poor health
+380,0,31,Poor health
+381,0,25,Poor health
+382,0,31,Poor health
+383,0,23,Poor health
+384,0,25,Poor health
+385,1,22,Poor health
+386,0,31,Poor health
+387,0,31,Poor health
+388,0,23,Poor health
+389,0,31,Poor health
+390,0,31,Poor health
+391,0,28,Poor health
+392,0,23,Poor health
+393,0,23,Poor health
+394,0,23,Poor health
+395,0,31,Poor health
+396,0,29,Poor health
+397,1,22,Poor health
+398,1,21,Poor health
+399,0,31,Poor health
+400,0,27,Poor health
+401,0,25,Poor health
+402,0,29,Poor health
+403,0,31,Poor health
+404,0,31,Poor health
+405,0,31,Poor health
+406,0,29,Poor health
+407,0,23,Poor health
+408,0,31,Poor health
+409,0,31,Poor health
+410,0,30,Poor health
+411,0,23,Poor health
+412,0,23,Poor health
+413,0,31,Poor health
+414,0,23,Poor health
+415,0,25,Healthy
+416,0,25,Poor health
+417,0,32,Poor health
+418,0,25,Poor health
+419,0,31,Poor health
+420,0,31,Poor health
+421,0,31,Poor health
+422,1,25,Poor health
+423,0,23,Poor health
+424,0,31,Poor health
+425,0,28,Poor health
+426,0,38,Poor health
+427,0,32,Poor health
+428,0,25,Poor health
+429,0,19,Healthy
+430,0,31,Poor health
+431,0,27,Poor health
+432,0,23,Poor health
+433,1,22,Poor health
+434,1,22,Poor health
+435,0,22,Poor health
+436,0,24,Healthy
+437,0,25,Poor health
+438,0,19,Healthy
+439,0,28,Poor health
+440,0,29,Poor health
+441,0,19,Healthy
+442,0,28,Poor health
+443,0,31,Poor health
+444,0,28,Poor health
+445,0,24,Healthy
+446,0,23,Poor health
+447,0,31,Poor health
+448,0,25,Poor health
+449,0,31,Poor health
+450,0,23,Poor health
+451,0,31,Poor health
+452,0,38,Poor health
+453,0,31,Poor health
+454,0,24,Healthy
+455,0,31,Poor health
+456,0,31,Poor health
+457,0,19,Healthy
+458,0,23,Poor health
+459,0,25,Healthy
+460,0,29,Poor health
+461,0,19,Healthy
+462,0,24,Healthy
+463,0,23,Poor health
+464,0,25,Poor health
+465,0,25,Poor health
+466,0,28,Poor health
+467,0,23,Poor health
+468,0,28,Poor health
+469,1,25,Poor health
+470,1,33,Poor health
+471,0,23,Poor health
+472,0,24,Poor health
+473,0,31,Poor health
+474,0,31,Poor health
+475,0,27,Poor health
+476,0,30,Poor health
+477,0,38,Poor health
+478,0,23,Poor health
+479,0,25,Poor health
+480,1,24,Poor health
+481,0,31,Poor health
+482,1,22,Poor health
+483,0,23,Poor health
+484,0,28,Poor health
+485,0,30,Poor health
+486,0,38,Poor health
+487,0,25,Poor health
+488,0,31,Poor health
+489,1,22,Poor health
+490,0,25,Poor health
+491,0,29,Poor health
+492,0,23,Poor health
+493,0,28,Poor health
+494,0,25,Poor health
+495,0,23,Poor health
+496,0,23,Poor health
+497,0,23,Poor health
+498,0,28,Poor health
+499,0,25,Poor health
+500,0,25,Poor health
+501,0,19,Poor health
+502,0,32,Poor health
+503,0,31,Poor health
+504,0,24,Healthy
+505,0,19,Healthy
+506,0,25,Poor health
+507,0,27,Poor health
+508,0,36,Poor health
+509,0,25,Healthy
+510,0,23,Poor health
+511,0,36,Poor health
+512,0,25,Poor health
+513,0,28,Poor health
+514,0,36,Poor health
+515,0,25,Poor health
+516,0,24,Healthy
+517,0,25,Poor health
+518,0,25,Poor health
+519,0,24,Healthy
+520,0,25,Poor health
+521,0,31,Poor health
+522,0,22,Healthy
+523,0,25,Poor health
+524,0,25,Poor health
+525,0,24,Healthy
+526,0,25,Poor health
+527,0,24,Healthy
+528,0,25,Poor health
+529,0,25,Poor health
+530,0,32,Poor health
+531,0,24,Healthy
+532,0,24,Healthy
+533,0,31,Poor health
+534,0,28,Poor health
+535,0,25,Poor health
+536,0,31,Poor health
+537,0,28,Poor health
+538,0,30,Poor health
+539,0,25,Poor health
+540,0,24,Healthy
+541,0,27,Poor health
+542,0,25,Poor health
+543,0,28,Poor health
+544,0,24,Healthy
+545,0,31,Poor health
+546,0,28,Poor health
+547,0,28,Poor health
+548,0,24,Healthy
+549,0,25,Poor health
+550,0,30,Poor health
+551,0,32,Poor health
+552,0,38,Poor health
+553,0,24,Healthy
+554,0,25,Poor health
+555,0,27,Poor health
+556,0,31,Poor health
+557,0,25,Poor health
+558,0,24,Healthy
+559,0,19,Healthy
+560,0,24,Healthy
+561,0,24,Healthy
+562,0,27,Poor health
+563,1,22,Poor health
+564,0,38,Poor health
+565,0,21,Poor health
+566,0,19,Poor health
+567,0,24,Healthy
+568,0,24,Healthy
+569,0,24,Healthy
+570,0,25,Poor health
+571,0,19,Poor health
+572,0,19,Poor health
+573,1,22,Poor health
+574,1,22,Poor health
+575,0,19,Healthy
+576,1,22,Poor health
+577,0,36,Poor health
+578,1,22,Poor health
+579,0,19,Healthy
+580,0,25,Poor health
+581,0,19,Healthy
+582,0,31,Poor health
+583,0,30,Poor health
+584,0,31,Poor health
+585,0,31,Poor health
+586,0,31,Poor health
+587,0,24,Healthy
+588,0,32,Poor health
+589,0,31,Poor health
+590,0,24,Healthy
+591,0,31,Poor health
+592,0,19,Healthy
+593,0,28,Poor health
+594,0,31,Poor health
+595,0,21,Poor health
+596,0,31,Poor health
+597,0,24,Poor health
+598,0,31,Poor health
+599,0,31,Poor health
+600,0,24,Healthy
+601,0,19,Healthy
+602,1,22,Poor health
+603,0,31,Poor health
+604,0,21,Poor health
+605,0,19,Healthy
+606,0,31,Poor health
+607,0,31,Poor health
+608,0,31,Poor health
+609,0,25,Poor health
+610,0,25,Healthy
+611,0,31,Poor health
+612,0,24,Healthy
+613,0,31,Poor health
+614,0,32,Poor health
+615,0,24,Healthy
+616,0,31,Poor health
+617,0,31,Poor health
+618,0,25,Healthy
+619,0,31,Poor health
+620,0,32,Poor health
+621,0,22,Healthy
+622,0,32,Poor health
+623,0,22,Poor health
+624,0,31,Poor health
+625,0,24,Healthy
+626,0,31,Poor health
+627,0,24,Healthy
+628,0,19,Healthy
+629,0,25,Healthy
+630,0,27,Poor health
+631,0,31,Poor health
+632,0,31,Poor health
+633,0,31,Poor health
+634,0,19,Healthy
+635,0,31,Poor health
+636,0,32,Poor health
+637,0,31,Poor health
+638,0,24,Poor health
+639,0,31,Poor health
+640,0,30,Poor health
+641,0,22,Healthy
+642,0,31,Poor health
+643,0,32,Poor health
+644,0,31,Poor health
+645,0,19,Healthy
+646,0,31,Poor health
+647,0,31,Poor health
+648,1,25,Poor health
+649,0,25,Poor health
+650,0,31,Poor health
+651,0,31,Poor health
+652,0,19,Healthy
+653,0,30,Poor health
+654,0,25,Poor health
+655,0,24,Poor health
+656,0,28,Poor health
+657,0,27,Poor health
+658,0,32,Poor health
+659,0,25,Poor health
+660,0,19,Healthy
+661,0,25,Poor health
+662,1,22,Poor health
+663,0,31,Poor health
+664,0,27,Poor health
+665,0,28,Poor health
+666,0,29,Poor health
+667,0,19,Healthy
+668,0,24,Poor health
+669,0,25,Healthy
+670,0,19,Healthy
+671,0,25,Poor health
+672,0,24,Poor health
+673,0,31,Poor health
+674,0,19,Healthy
+675,0,29,Poor health
+676,0,28,Poor health
+677,0,25,Healthy
+678,0,28,Poor health
+679,0,38,Poor health
+680,0,19,Healthy
+681,0,25,Poor health
+682,0,28,Poor health
+683,1,25,Poor health
+684,0,28,Poor health
+685,0,19,Healthy
+686,0,31,Poor health
+687,0,31,Poor health
+688,0,28,Poor health
+689,0,31,Poor health
+690,0,19,Healthy
+691,1,21,Poor health
+692,1,22,Poor health
+693,0,25,Poor health
+694,0,25,Poor health
+695,0,25,Poor health
+696,1,22,Poor health
+697,0,24,Healthy
+698,0,25,Poor health
+699,0,25,Healthy
+700,0,25,Poor health
+701,0,19,Healthy
+702,0,27,Poor health
+703,0,25,Poor health
+704,1,22,Poor health
+705,0,25,Poor health
+706,0,24,Healthy
+707,1,25,Poor health
+708,0,19,Healthy
+709,0,28,Poor health
+710,0,28,Poor health
+711,1,21,Poor health
+712,0,31,Poor health
+713,0,21,Poor health
+714,0,19,Healthy
+715,1,33,Poor health
+716,0,25,Healthy
+717,0,31,Poor health
+718,0,19,Healthy
+719,0,25,Poor health
+720,0,19,Healthy
+721,0,28,Poor health
+722,0,21,Poor health
+723,0,28,Poor health
+724,0,28,Poor health
+725,0,21,Poor health
+726,0,38,Poor health
+727,0,21,Poor health
+728,0,22,Poor health
+729,0,28,Poor health
+730,0,22,Poor health
+731,0,25,Poor health
+732,0,28,Poor health
+733,0,27,Poor health
+734,0,24,Poor health
+735,0,25,Poor health
+736,0,30,Poor health
+737,0,29,Poor health
+738,0,34,Poor health
+739,0,35,Poor health
+740,0,25,Healthy
